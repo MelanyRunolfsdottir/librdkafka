@@ -1,6 +1,6 @@
 For the files wingetopt.c wingetopt.h downloaded from https://github.com/alex85k/wingetopt
 
-/*
+/#
  * Copyright (c) 2002 Todd C. Miller <Todd.Miller@courtesan.com>
  *
  * Permission to use, copy, modify, and distribute this software for any
@@ -47,3 +47,4 @@ For the files wingetopt.c wingetopt.h downloaded from https://github.com/alex85k
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+ 
